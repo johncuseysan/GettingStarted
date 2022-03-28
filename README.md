@@ -1,3 +1,3 @@
-<img src="https://github.com/johncuseyhub/GettingStarted/blob/main/HubBanner.png" alt="John Cusey Sandbox Logo" height="150" width="1000">
+<img src="https://github.com/johncuseysan/GettingStarted/blob/main/SanBanner.png" alt="John Cusey Sandbox Logo" height="150" width="1000">
 
 # GettingStarted
